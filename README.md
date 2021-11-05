@@ -5,6 +5,7 @@
 
 
 - Palheta de cores:
+
 ![image](https://user-images.githubusercontent.com/80174933/140589965-bebaa5bb-0073-4bcf-a69b-32a4e6b9fbb9.png)
 
 ![image](https://user-images.githubusercontent.com/80174933/140589981-ad33ee96-8715-4c18-ba80-ec452e3a2b0a.png)
